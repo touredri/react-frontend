@@ -9,7 +9,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 React frontend ](#-about-project-)
+- [📖 React backend ](#-about-project-)
 - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
 - [🎲 Key Features ](#-key-features-)
