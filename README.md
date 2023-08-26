@@ -30,6 +30,9 @@
 
 # 📖 react-front <a name="about-project"></a>
 
+## Link to rails backend
+https://github.com/touredri/rails-backend/pull/1
+
 **hello-raild-react** display random greeting message.
 
 # 🛠 Built With <a name="built-with"></a>
